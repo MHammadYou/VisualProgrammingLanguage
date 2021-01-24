@@ -2,6 +2,13 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,webstorm
 
 ### Node ###
+
+*js/
+js/**
+
+*css/
+css/**
+
 # Logs
 logs
 *.log
