@@ -1,0 +1,20 @@
+.blocks {
+  padding: 1rem;
+  width: 50%;
+  box-shadow: 1px 1px 2px #999;
+  border-radius: 5px;
+  font-family: sarabun;
+}
+
+.block {
+  background-color: rgb(41, 41, 250);
+  margin: 7px 5px;
+  padding: 3px 2px 3px 7px;
+  border-radius: 5px;
+  color: white;
+  font-size: 18px;
+}
+
+.blocks-toggle {
+  display: none;
+}
